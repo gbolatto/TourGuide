@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- Tab titles -->
+    <string name="lakes">Lakes</string>
+    <string name="museums">Museums</string>
+    <string name="shops">Game Shops</string>
+    <string name="restaurants">Food</string>
+
+    <!-- Image content descriptions -->
+    <string name="g_map_pin_description">A link to a map showing the attraction\'s location.</string>
+
+    <!-- Lakes info -->
+    <!-- The web links don't really need to be string referenced but it keeps things uniform -->
+    <string name="falls_lake">Falls Lake</string>
+    <string name="falls_lake_location">East of Durham</string>
+    <string name="falls_lake_map_link">https://www.google.com/maps/search/?api=1&amp;query=falls+lake+nc</string>
+    <string name="falls_lake_details">A boating and fishing lake with beaches.  Also has a paddle-boat only section of the lake.</string>
+    <string name="falls_lake_website">https://www.ncparks.gov/falls-lake-state-recreation-area</string>
+
+    <string name="jordan_lake">Jordan Lake</string>
+    <string name="jordan_lake_location">South of Chapel Hill</string>
+    <string name="jordan_lake_map_link">https://www.google.com/maps/search/?api=1&amp;query=jordan+lake+nc</string>
+    <string name="jordan_lake_details">A large boating and fishing lake with beaches. This lake has many boat ramps and hiking trails in various parks.</string>
+    <string name="jordan_lake_website">https://www.ncparks.gov/jordan-lake-state-recreation-area</string>
+
+    <string name="shearon_harris">Shearon Harris Reservoir</string>
+    <string name="shearon_harris_location">Southwest of Holly Springs</string>
+    <string name="shearon_harris_map_link">https://www.google.com/maps/search/?api=1&amp;query=shearon+harris+reservoir+nc</string>
+    <string name="shearon_harris_details">A reservoir with fishing.  Harris Lake Park has hiking, bike trails, picnic areas, volleyball, disc golf, and many other activities.</string>
+    <string name="shearon_harris_website">http://www.wakegov.com/parks/harrislake/Pages/default.aspx</string>
+
+    <string name="lake_johnson">Lake Johnson</string>
+    <string name="lake_johnson_location">East of the 40/440 junction</string>
+    <string name="lake_johnson_map_link">https://www.google.com/maps/search/?api=1&amp;query=lake+johnson+raleigh+nc</string>
+    <string name="lake_johnson_details">A smaller lake situated in Lake Johnson Park that has rentals for sailing, canoeing, kayaking, and fishing. The park also has trails around the lake.</string>
+    <string name="lake_johnson_website">https://www.raleighnc.gov/parks/content/ParksRec/Articles/Parks/LakeJohnson.html</string>
+
+    <!-- Museum info -->
+    <!-- The web links don't really need to be string referenced but it keeps things uniform -->
+    <string name="natural_sciences">Museum of Natural Sciences</string>
+    <string name="natural_sciences_location">Downtown Raleigh</string>
+    <string name="natural_sciences_map_link">https://www.google.com/maps/search/?api=1&amp;query=nc+museum+of+natural+sciences+raleigh</string>
+    <string name="natural_sciences_details">Exhibits on NC\'s geology, flora and fauna, plus fossil collections, 3D films and live-animal programs.</string>
+    <string name="natural_sciences_website">http://naturalsciences.org/</string>
+
+    <string name="museum_of_art">Museum of Art</string>
+    <string name="museum_of_art_location">Raleigh, just North of Wade Ave</string>
+    <string name="museum_of_art_map_link">https://www.google.com/maps/search/?api=1&amp;query=nc+museum+of+art+raleigh</string>
+    <string name="museum_of_art_details">The museum encompasses a collection that spans more than 5,000 years of artistic work from antiquity to the present.</string>
+    <string name="museum_of_art_website">https://ncartmuseum.org/</string>
+
+    <string name="life_and_science">Museum of Life and Science</string>
+    <string name="life_and_science_location">North Durham</string>
+    <string name="life_and_science_map_link">https://www.google.com/maps/search/?api=1&amp;query=museum+of+life+and+science+durham</string>
+    <string name="life_and_science_details">A children\'s science museum featuring many hands-on exhibits.</string>
+    <string name="life_and_science_website">http://www.lifeandscience.org/</string>
+
+    <!-- Shops info -->
+    <!-- The web links don't really need to be string referenced but it keeps things uniform -->
+    <string name="atomic_empire">Atomic Empire</string>
+    <string name="atomic_empire_location">West Durham</string>
+    <string name="atomic_empire_map_link">https://www.google.com/maps/search/?api=1&amp;query=atomic+empire+durham+nc</string>
+    <string name="atomic_empire_details">A large local game shop.</string>
+    <string name="atomic_empire_website">https://www.atomicempire.com/</string>
+
+    <string name="game_theory">Game Theory</string>
+    <string name="game_theory_location">Northwest Raleigh</string>
+    <string name="game_theory_map_link">https://www.google.com/maps/search/?api=1&amp;query=game+theory+store+raleigh+nc</string>
+    <string name="game_theory_details">A local game shop.</string>
+    <string name="game_theory_website">http://www.gametheorystore.com/</string>
+
+    <string name="gamers_armory">The Gamer\'s Armory</string>
+    <string name="gamers_armory_location">Cary, Cary Town Blvd</string>
+    <string name="gamers_armory_map_link">https://www.google.com/maps/search/?api=1&amp;query=the+gamers+armory+cary+nc</string>
+    <string name="gamers_armory_details">A local game shop.</string>
+    <string name="gamers_armory_website">https://gamersarmory.com/</string>
+
+    <!-- Food info -->
+    <!-- The web links don't really need to be string referenced but it keeps things uniform -->
+    <string name="angus_barn">Angus Barn</string>
+    <string name="angus_barn_location">Raleigh, Near Brier Creek</string>
+    <string name="angus_barn_map_link">https://www.google.com/maps/search/?api=1&amp;query=angus+barn+raleigh+nc</string>
+    <string name="angus_barn_details">A local steakhouse and wine cellar.</string>
+    <string name="angus_barn_website">http://www.angusbarn.com/</string>
+
+    <string name="pizzeria_toro">Pizzeria Toro</string>
+    <string name="pizzeria_toro_location">Downtown Durham</string>
+    <string name="pizzeria_toro_map_link">https://www.google.com/maps/search/?api=1&amp;query=pizzeria+toro+durham+nc</string>
+    <string name="pizzeria_toro_details">Wood-fired pizza.</string>
+    <string name="pizzeria_toro_website">http://pizzeriatoro.com/</string>
+
+    <string name="rue_cler">Rue Cler</string>
+    <string name="rue_cler_location">Downtown Durham</string>
+    <string name="rue_cler_map_link">https://www.google.com/maps/search/?api=1&amp;query=rue+cler+restaurant+durham+nc</string>
+    <string name="rue_cler_details">A Parisian-style neighborhood restaurant.</string>
+    <string name="rue_cler_website">http://www.ruecler-durham.com/</string>
+
+</resources>
